@@ -1,3 +1,6 @@
+![Traffic Accident Analysis](traffic.jpg)
+
+
 # Traffic Accident Analysis
 
 ## Project Overview
